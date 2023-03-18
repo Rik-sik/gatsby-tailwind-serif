@@ -47,7 +47,7 @@ function Index({ data }) {
       >
         <div className="w-4/5 md:w-3/4 lg:w-7/12 mt-20 font-serif font-hairline self-start">
           <h1 className="text-3xl md:text-5xl text-indigo-700 leading-tight">
-            Serif - Gatsby Small Business Theme.
+            Sumati.io  - Great Business Theme.
           </h1>
           <p className="text-base">
             Multiple content types using Markdown and JSON sources. Responsive
@@ -71,7 +71,7 @@ function Index({ data }) {
               </p>
               <p>
                 <strong>Email: </strong>
-                xxx@xxx.com
+                vp@sumati.com
               </p>
             </div>
             <div className="flex-initial mt-6 sm:mt-0">
