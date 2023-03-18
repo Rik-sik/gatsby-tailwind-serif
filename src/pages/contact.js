@@ -24,7 +24,7 @@ const Contact = () => {
             <strong>Phone:</strong> XXX XXX XXX
           </p>
           <p>
-            <strong>Email: </strong>xxx@xxx.com
+            <strong>Email: </strong>vp@sumati.io
           </p>
         </div>
         <div className="w-full">
@@ -33,33 +33,33 @@ const Contact = () => {
             <tbody>
               <tr className="border-t h-10">
                 <td className="font-semibold">Monday</td>
-                <td>8:30am</td>
+                <td>10:00am</td>
                 <td>-</td>
-                <td>5:00pm</td>
+                <td>6:00pm</td>
               </tr>
               <tr className="border-t h-10">
                 <td className="font-semibold">Tuesday</td>
-                <td>8:30am</td>
+                <td>10:00am</td>
                 <td>-</td>
-                <td>5:00pm</td>
+                <td>6:00pm</td>
               </tr>
               <tr className="border-t h-10">
                 <td className="font-semibold">Wednesday</td>
-                <td>8:30am</td>
+                <td>10:00am</td>
                 <td>-</td>
-                <td>5:00pm</td>
+                <td>6:00pm</td>
               </tr>
               <tr className="border-t h-10">
                 <td className="font-semibold">Thursday</td>
-                <td>8:30am</td>
+                <td>10:00am</td>
                 <td>-</td>
-                <td>5:00pm</td>
+                <td>6:00pm</td>
               </tr>
               <tr className="border-t h-10">
                 <td className="font-semibold">Friday</td>
-                <td>8:30am</td>
+                <td>10:00am</td>
                 <td>-</td>
-                <td>5:00pm</td>
+                <td>6:00pm</td>
               </tr>
               <tr className="border-t h-10">
                 <td className="font-semibold">Saturday</td>
