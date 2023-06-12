@@ -63,9 +63,9 @@ const Contact = () => {
               </tr>
               <tr className="border-t h-10">
                 <td className="font-semibold">Saturday</td>
-                <td>Closed</td>
-                <td />
-                <td />
+                <td>10:00am</td>
+                <td>-</td>
+                <td>6:00pm</td>
               </tr>
               <tr className="border-t h-10">
                 <td className="font-semibold">Sunday</td>
